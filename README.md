@@ -1,2 +1,3 @@
-## Jam Store Website
-This is the Jam Store project. All pages and images are included.
+Jam Shop
+
+This is a test change to see if Git push works.
